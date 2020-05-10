@@ -1,0 +1,48 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+font-family: 'Fjalla One', sans-serif;    
+}
+
+body
+{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+
+p
+{
+font-family: 'Roboto', sans-serif;    
+}
+
+section div
+{
+border: 1px solid black; 
+align-items: center;
+width: 1000px;   
+justify-content: center;
+text-align: center;
+padding: 10px 10px 10px 10px;
+}
+
+.titulo
+{
+background-color: #000c4a;
+color: white;    
+}
+
+.texto
+{
+background-color: #d9dfff;    
+}
+
+section div h1
+{
+font-size: 40px;   
+}
