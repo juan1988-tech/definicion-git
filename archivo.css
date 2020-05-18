@@ -55,6 +55,7 @@ font-size: 40px;
 
 footer
 {
+<<<<<<< HEAD
 background-color: #02051f; 
 color: #e3eaff;
 display: flex;
@@ -174,4 +175,23 @@ width: 50px;
 height: 50px;
 background-image: url('social-media/platzi.png');
 background-size: 50px 50px;    
+=======
+background-color: #1f0101;
+color: #d9dfff;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+height: 350px;
+width: 1703px;
+align-items: center;
+letter-spacing: 0.5px;
+}
+
+footer div:nth-child(2) a
+{
+width: 50px;
+height: 50px;
+border: 1px solid white;
+margin-right: 20opx;    
+>>>>>>> 850a32feab934855a4222af31f3706b7760cad68
 }
